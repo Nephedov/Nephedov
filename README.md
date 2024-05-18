@@ -14,7 +14,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
 <h2>Знания и навыки</h2>
     <div>
         <ul>
-            <li>Ручное тестирование<br/> - Практические работы по <a href="https://github.com/Nephedov/Manual-testing">ручному тестированию</a>.</li>
+            <li>Ручное тестирование.<br/><a href="https://github.com/Nephedov/Manual-testing">Практические работы по ручному тестированию</a>.</li>
             <li>
                 Maven, 
                 Java, 
@@ -23,7 +23,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 JaCoCo, 
                 Git, 
                 GithubActions, 
-                SpotBugs<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Java-for-testers">Java</a>.</li>
+                SpotBugs.<br/><a href="https://github.com/Nephedov/Java-for-testers">Практические работы по курсу Java</a>.</li>
             <li>
                 Gradle, 
                 Selenide, 
@@ -38,10 +38,10 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Allure, 
                 Report Portal, 
                 Page Objects, 
-                BDD<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Automated-Testing">"Автоматизированное тестирование"</a></li>
+                BDD.<br/><a href="https://github.com/Nephedov/Automated-Testing">Практические работы по курсу "Автоматизированное тестирование"</a></li>
             <li>
                 JavaScript, 
-                GithubPages<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/JavaScript-for-Testers">JavaScript</a>.</li>
+                GithubPages.<br/><a href="https://github.com/Nephedov/JavaScript-for-Testers">Практические работы по курсу JavaScript</a>.</li>
             <li>
                 Node.js, 
                 Jest, 
@@ -49,11 +49,11 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Puppeteer, 
                 Cypress, 
                 Jenkins, 
-                Chai<br/>- Практические работы по курсу <a href="https://github.com/Nephedov/Automation-of-web-interface-testing">"Автоматизация тестирования веб-интерфейсов"</a></li>
+                Chai.<br/><a href="https://github.com/Nephedov/Automation-of-web-interface-testing">Практические работы по курсу "Автоматизация тестирования веб-интерфейсов"</a></li>
             <li>
                 UI Automator, 
                 Appium, 
-                Espresso<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Mobile-application-testing">"Тестирование мобильных приложений"</a>.</li>
+                Espresso.<br/><a href="https://github.com/Nephedov/Mobile-application-testing">Практические работы по курсу "Тестирование мобильных приложений"</a>.</li>
             <li>
                 Grafana, 
                 Telegraf, 
@@ -61,10 +61,10 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Node Exporter, 
                 Prometheus, 
                 BlazeMeter, 
-                JMeter<br/> -  Практические работы по курсу <a href="https://github.com/Nephedov/Performance-testing">"Тестирование производительности"</a>.</li>
+                JMeter.<br/><a href="https://github.com/Nephedov/Performance-testing">Практические работы по курсу "Тестирование производительности"</a>.</li>
             <li>
-                Тестирование безопасности<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Security-testing">"Тестирование безопасности"</a>.</li>
-            <li>PostgreSQL, DBeaver<br/> - Проектная работа по модулю <a href="https://github.com/Nephedov/SQL-course">“SQL и получение данных”</a>.</li>
+                Тестирование безопасности.<br/> - <a href="https://github.com/Nephedov/Security-testing">Практические работы по курсу "Тестирование безопасности"</a>.</li>
+            <li>PostgreSQL, DBeaver.<br/><a href="https://github.com/Nephedov/SQL-course">Проектная работа по модулю “SQL и получение данных”</a>.</li>
         </ul>
     </div>
 <h2>Документы об образовании</h2>
