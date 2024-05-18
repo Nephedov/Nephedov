@@ -1,5 +1,23 @@
 <h2>Привет!</h2>
-Я <b>Михаил Нефёдов</b>, QA Engineer.
+
+<div style="display: flex; flex-direction: row ; justify-content: flex-end; align-items: center;">
+    <p style="margin-right: auto">Я <b>Михаил Нефёдов</b>, QA Engineer.</p>
+    <p style="margin-left: auto; margin-right: 5px;">
+        <a href="https://wa.me/79850947404" target="_blank">
+            <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
+        </a>
+    </p>
+    <p style="margin-left: 5px; margin-right: 5px;">
+        <a href="https://t.me/Nephedov93" target="_blank">
+            <img src="./pic/telegram_icon.png" alt="Telegram Icon">
+        </a>
+    </p>
+    <p style="margin-left: 5px; margin-right: 5px;">
+        <a href="https://Nephedov93@gmail.com" target="_blank">
+            <img src="./pic/gmail_icon.png" alt="Gmail Icon">
+        </a>
+    </p>
+</div>
 
 <h2>Мой стек</h2>
 Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, Cypress, Espresso, JMeter, Docker, Docker-Compose, Git, GithubActions, Appveyor, Allure, Report Portal, PostgreSQL.
@@ -70,20 +88,37 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
 <h2>Документы об образовании</h2>
     <div>Диплом:
         <ul>
-            <li><a href="">Специалист по тестированию в области информационных технологий</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/README.md">Специалист по тестированию в области информационных технологий</a>.</li>
         </ul>
     </div>
     <div>Сертификаты:
         <ul>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/ManualTesting.jpg">Ручное тестирование веб-приложений</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/GIT.jpg">GIT</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/Java.jpg">Java для тестировщиков</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/AutomatedTesting.jpg">Автоматизированное тестирование</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/JavaScript.jpg">JavaScript для тестировщиков</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/AutomationOfWebInterfaceTesting.jpg">Автоматизация тестирования веб-интерфейсов</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/MobileApplicationTesting.jpg">Тестирование мобильных приложений</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/PerformanceTesting.jpg">Тестирование производительности</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/SecurityTesting.jpg">Тестирование безопасности</a>.</li>
-            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/SQL.jpg">"SQL и получение данных"</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/ManualTesting.jpg">Ручное тестирование веб-приложений</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/GIT.jpg">GIT</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/Java.jpg">Java для тестировщиков</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/AutomatedTesting.jpg">Автоматизированное тестирование</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/JavaScript.jpg">JavaScript для тестировщиков</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/AutomationOfWebInterfaceTesting.jpg">Автоматизация тестирования веб-интерфейсов</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/MobileApplicationTesting.jpg">Тестирование мобильных приложений</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/PerformanceTesting.jpg">Тестирование производительности</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/SecurityTesting.jpg">Тестирование безопасности</a>.</li>
+            <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/SQL.jpg">"SQL и получение данных"</a>.</li>
         </ul>
+    </div>
+    <div style="display: flex; flex-direction: row ; justify-content: center; align-items: center;">
+    <p>
+        <a href="https://wa.me/79850947404" target="_blank">
+            <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
+        </a>
+    </p>
+    <p style="margin-left: 10px; margin-right: 10px;">
+        <a href="https://t.me/Nephedov93" target="_blank">
+            <img src="./pic/telegram_icon.png" alt="Telegram Icon">
+        </a>
+    </p>
+    <p style="margin-left: 10px;">
+        <a href="https://Nephedov93@gmail.com" target="_blank">
+            <img src="./pic/gmail_icon.png" alt="Gmail Icon">
+        </a>
+    </p>
     </div>
