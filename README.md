@@ -8,7 +8,6 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
     <div>
         <ul>
             <li><a href="https://github.com/Nephedov/Diploma-project-QA-engineer">Дипломный проект</a></br> QA engineer "Автоматизация тестирования мобильного приложения".</li>
-            <hr style="border-width: 1px; border-color: grey;">
             <li><a href="https://github.com/Nephedov/Course-project-for-the-module-Manual-testing-of-web-applications-from-Netology-">Курсовой проект</a></br> «Ручное тестирование веб-приложений».</li>
         </ul>
     </div>
@@ -16,7 +15,6 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
     <div>
         <ul>
             <li>Ручное тестирование<br/> - Практические работы по <a href="https://github.com/Nephedov/Manual-testing">ручному тестированию</a>.</li>
-            <hr style="border-width: 1px; border-color: grey;">
             <li>
                 Maven, 
                 Java, 
@@ -26,7 +24,6 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Git, 
                 GithubActions, 
                 SpotBugs<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Java-for-testers">Java</a>.</li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 Gradle, 
                 Selenide, 
@@ -42,11 +39,9 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Report Portal, 
                 Page Objects, 
                 BDD<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Automated-Testing">"Автоматизированное тестирование"</a></li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 JavaScript, 
                 GithubPages<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/JavaScript-for-Testers">JavaScript</a>.</li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 Node.js, 
                 Jest, 
@@ -55,12 +50,10 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Cypress, 
                 Jenkins, 
                 Chai<br/>- Практические работы по курсу <a href="https://github.com/Nephedov/Automation-of-web-interface-testing">"Автоматизация тестирования веб-интерфейсов"</a></li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 UI Automator, 
                 Appium, 
                 Espresso<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Mobile-application-testing">"Тестирование мобильных приложений"</a>.</li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 Grafana, 
                 Telegraf, 
@@ -69,10 +62,8 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
                 Prometheus, 
                 BlazeMeter, 
                 JMeter<br/> -  Практические работы по курсу <a href="https://github.com/Nephedov/Performance-testing">"Тестирование производительности"</a>.</li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>
                 Тестирование безопасности<br/> - Практические работы по курсу <a href="https://github.com/Nephedov/Security-testing">"Тестирование безопасности"</a>.</li>
-                <hr style="border-width: 1px; border-color: grey;">
             <li>PostgreSQL, DBeaver<br/> - Проектная работа по модулю <a href="https://github.com/Nephedov/SQL-course">“SQL и получение данных”</a>.</li>
         </ul>
     </div>
@@ -80,7 +71,6 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
     <div>Диплом:
         <ul>
             <li><a href="">Специалист по тестированию в области информационных технологий</a>.</li>
-            <hr style="border-width: 1px; border-color: grey;">
         </ul>
     </div>
     <div>Сертификаты:
