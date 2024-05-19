@@ -79,7 +79,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
         </ul>
     </div>
 
-<h2>Документы об образовании</h2>
+<h2>Образование</h2>
     <div>Диплом:
         <ul>
             <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/README.md">Специалист по тестированию в области информационных технологий</a>.</li>
