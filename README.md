@@ -97,7 +97,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
     <a href="https://t.me/Nephedov93" target="_blank">
         <img src="./pic/telegram_icon.png" alt="Telegram Icon">
     </a>&nbsp
-    <a href="https://Nephedov93@gmail.com" target="_blank">
+    <a href="mailto:Nephedov93@gmail.com" target="_blank">
         <img src="./pic/gmail_icon.png" alt="Gmail Icon">
     </a>&nbsp
 </p>
