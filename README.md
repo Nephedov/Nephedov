@@ -1,23 +1,17 @@
 <h2>Привет!</h2>
-
-<div style="display: flex; flex-direction: row ; justify-content: flex-end; align-items: center;">
-    <p style="margin-right: auto">Я <b>Михаил Нефёдов</b>, QA Engineer.</p>
-    <p style="margin-left: auto; margin-right: 5px;">
+<div style="position: absolute; right: 0;">
         <a href="https://wa.me/79850947404" target="_blank">
             <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
         </a>
-    </p>
-    <p style="margin-left: 5px; margin-right: 5px;">
         <a href="https://t.me/Nephedov93" target="_blank">
             <img src="./pic/telegram_icon.png" alt="Telegram Icon">
         </a>
-    </p>
-    <p style="margin-left: 5px; margin-right: 5px;">
         <a href="https://Nephedov93@gmail.com" target="_blank">
             <img src="./pic/gmail_icon.png" alt="Gmail Icon">
         </a>
-    </p>
 </div>
+
+Я <b>Михаил Нефёдов</b>, QA Engineer.
 
 <h2>Мой стек</h2>
 Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, Cypress, Espresso, JMeter, Docker, Docker-Compose, Git, GithubActions, Appveyor, Allure, Report Portal, PostgreSQL.
@@ -104,21 +98,4 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
             <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/SecurityTesting.jpg">Тестирование безопасности</a>.</li>
             <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/SQL.jpg">"SQL и получение данных"</a>.</li>
         </ul>
-    </div>
-    <div style="display: flex; flex-direction: row ; justify-content: center; align-items: center;">
-    <p>
-        <a href="https://wa.me/79850947404" target="_blank">
-            <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
-        </a>
-    </p>
-    <p style="margin-left: 10px; margin-right: 10px;">
-        <a href="https://t.me/Nephedov93" target="_blank">
-            <img src="./pic/telegram_icon.png" alt="Telegram Icon">
-        </a>
-    </p>
-    <p style="margin-left: 10px;">
-        <a href="https://Nephedov93@gmail.com" target="_blank">
-            <img src="./pic/gmail_icon.png" alt="Gmail Icon">
-        </a>
-    </p>
     </div>
