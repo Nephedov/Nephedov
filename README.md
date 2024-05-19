@@ -1,15 +1,16 @@
+<p align="right">
+    <a href="https://wa.me/79850947404" target="_blank">
+        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
+    </a>&nbsp
+    <a href="https://t.me/Nephedov93" target="_blank">
+        <img src="./pic/telegram_icon.png" alt="Telegram Icon">
+    </a>&nbsp
+    <a href="https://Nephedov93@gmail.com" target="_blank">
+        <img src="./pic/gmail_icon.png" alt="Gmail Icon">
+    </a>&nbsp
+</p>
+
 <h2>Привет!</h2>
-<div style="position: absolute; right: 0;">
-        <a href="https://wa.me/79850947404" target="_blank">
-            <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
-        </a>
-        <a href="https://t.me/Nephedov93" target="_blank">
-            <img src="./pic/telegram_icon.png" alt="Telegram Icon">
-        </a>
-        <a href="https://Nephedov93@gmail.com" target="_blank">
-            <img src="./pic/gmail_icon.png" alt="Gmail Icon">
-        </a>
-</div>
 
 Я <b>Михаил Нефёдов</b>, QA Engineer.
 
@@ -79,6 +80,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
             <li>PostgreSQL, DBeaver.<br/><a href="https://github.com/Nephedov/SQL-course">Проектная работа по модулю “SQL и получение данных”</a>.</li>
         </ul>
     </div>
+
 <h2>Документы об образовании</h2>
     <div>Диплом:
         <ul>
@@ -99,3 +101,15 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
             <li><a href="https://github.com/Nephedov/Netology-Certificates/blob/main/pic/SQL.jpg">"SQL и получение данных"</a>.</li>
         </ul>
     </div>
+
+<p align="center">
+    <a href="https://wa.me/79850947404" target="_blank">
+        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
+    </a>&nbsp
+    <a href="https://t.me/Nephedov93" target="_blank">
+        <img src="./pic/telegram_icon.png" alt="Telegram Icon">
+    </a>&nbsp
+    <a href="https://Nephedov93@gmail.com" target="_blank">
+        <img src="./pic/gmail_icon.png" alt="Gmail Icon">
+    </a>&nbsp
+</p>
