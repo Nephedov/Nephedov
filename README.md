@@ -1,15 +1,3 @@
-<p align="right">
-    <a href="https://wa.me/79850947404" target="_blank">
-        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
-    </a>&nbsp
-    <a href="https://t.me/Nephedov93" target="_blank">
-        <img src="./pic/telegram_icon.png" alt="Telegram Icon">
-    </a>&nbsp
-    <a href="https://Nephedov93@gmail.com" target="_blank">
-        <img src="./pic/gmail_icon.png" alt="Gmail Icon">
-    </a>&nbsp
-</p>
-
 <h2>Привет!</h2>
 
 Я <b>Михаил Нефёдов</b>, QA Engineer.
