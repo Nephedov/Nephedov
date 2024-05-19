@@ -1,4 +1,14 @@
-<h2>Привет!</h2>
+<h2>Привет!
+    <a href="mailto:Nephedov93@gmail.com" target="_blank">
+        <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="right">
+    </a>
+    <a href="https://t.me/Nephedov93" target="_blank">
+        <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="right">
+    </a>
+    <a href="https://wa.me/79850947404" target="_blank">
+        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="right">
+    </a>
+</h2>
 
 Я <b>Михаил Нефёдов</b>, QA Engineer.
 
