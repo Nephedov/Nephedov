@@ -100,14 +100,12 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
         </ul>
     </div>
 
-<p align="center">
-    <a href="https://wa.me/79850947404" target="_blank">
-        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon">
-    </a>&nbsp
-    <a href="https://t.me/Nephedov93" target="_blank">
-        <img src="./pic/telegram_icon.png" alt="Telegram Icon">
-    </a>&nbsp
-    <a href="mailto:Nephedov93@gmail.com" target="_blank">
-        <img src="./pic/gmail_icon.png" alt="Gmail Icon">
-    </a>&nbsp
-</p>
+<a href="https://wa.me/79850947404" target="_blank">
+    <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="left">
+</a>
+<a href="https://t.me/Nephedov93" target="_blank">
+    <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="left">
+</a>
+<a href="mailto:Nephedov93@gmail.com" target="_blank">
+    <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="left">
+</a>
