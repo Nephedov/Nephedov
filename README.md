@@ -1,12 +1,12 @@
 <h2>Привет!
-    <a href="mailto:Nephedov93@gmail.com" target="_blank">
-        <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="right">
+    <a href="mailto:Nephedov93@gmail.com">
+        <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="right" width="auto" height="32">
     </a>
-    <a href="https://t.me/Nephedov93" target="_blank">
-        <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="right">
+    <a href="https://t.me/Nephedov93">
+        <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="right" width="auto" height="32">
     </a>
-    <a href="https://wa.me/79850947404" target="_blank">
-        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="right">
+    <a href="https://wa.me/79850947404">
+        <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="right" width="auto" height="32">
     </a>
 </h2>
 
@@ -68,7 +68,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
             <li>
                 Grafana, 
                 Telegraf, 
-                InfluxDB, 
+                InfluxDB,
                 Node Exporter, 
                 Prometheus, 
                 BlazeMeter, 
@@ -100,12 +100,12 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
         </ul>
     </div>
 
-<a href="https://wa.me/79850947404" target="_blank">
-    <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="left">
+<a href="https://wa.me/79850947404">
+    <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="left" width="auto" height="32">
 </a>
-<a href="https://t.me/Nephedov93" target="_blank">
-    <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="left">
+<a href="https://t.me/Nephedov93">
+    <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="left" width="auto" height="32">
 </a>
-<a href="mailto:Nephedov93@gmail.com" target="_blank">
-    <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="left">
+<a href="mailto:Nephedov93@gmail.com">
+    <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="left" width="auto" height="32">
 </a>
