@@ -1,8 +1,8 @@
 <h2>Привет!
-    <a href="mailto:Nephedov93@gmail.com">
+    <a href="mailto:mikhail.nephedov@gmail.com">
         <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="right" width="auto" height="32">
     </a>
-    <a href="https://t.me/Nephedov93">
+    <a href="https://t.me/MikhailNephedov">
         <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="right" width="auto" height="32">
     </a>
     <a href="https://wa.me/79850947404">
@@ -103,9 +103,9 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
 <a href="https://wa.me/79850947404">
     <img src="./pic/whatsapp_icon.png" alt="Whatsapp Icon" align="left" width="auto" height="32">
 </a>
-<a href="https://t.me/Nephedov93">
+<a href="https://t.me/MikhailNephedov">
     <img src="./pic/telegram_icon.png" alt="Telegram Icon" align="left" width="auto" height="32">
 </a>
-<a href="mailto:Nephedov93@gmail.com">
+<a href="mailto:mikhail.nephedov@gmail.com">
     <img src="./pic/gmail_icon.png" alt="Gmail Icon" align="left" width="auto" height="32">
 </a>
