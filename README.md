@@ -20,6 +20,7 @@ Windows, Java, JavaScript, Junit, TestNG, Selenide, Cucumber, Jest, Puppeteer, C
         <ul>
             <li><a href="https://github.com/Nephedov/Diploma-project-QA-engineer">Дипломный проект</a></br> QA engineer "Автоматизация тестирования мобильного приложения".</li>
             <li><a href="https://github.com/Nephedov/Course-project-for-the-module-Manual-testing-of-web-applications-from-Netology-">Курсовой проект</a></br> «Ручное тестирование веб-приложений».</li>
+            <li><a href="https://github.com/Nephedov/SQL-course">Проектная работа по модулю</a><br/>“SQL и получение данных”.</li>
         </ul>
     </div>
 <h2>Знания и навыки</h2>
